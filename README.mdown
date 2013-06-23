@@ -2,7 +2,7 @@ hk-dining-opendata-sqlite
 ==============
 June 23, 2013
 
-This is simple python script that generates a SQLite database containing all the licensed restaurants in Hong Kong Special Administrative Region.
+This is simple python script that generates an SQLite database containing all the licensed restaurants in Hong Kong Special Administrative Region.
 
 So if you are looking to build yet another local dining social app startup, here's your chance.
 
