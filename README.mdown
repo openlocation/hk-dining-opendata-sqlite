@@ -12,4 +12,6 @@ The only python dependency is the amazing Python Requests module <http://docs.py
 
 [![](https://github.com/kenguish/hk-dining-opendata-sqlite/raw/master/Screenshot.png)](https://github.com/kenguish/hk-dining-opendata-sqlite/raw/master/Screenshot.png)
 
+All restaurant data is provided by the Data.One service operated by the OGCIO of the HKSAR government. HKSAR government is the intellectual property rights owner of the restaurant data. 
+
 Licensed under WTFPL <http://sam.zoy.org/wtfpl/COPYING>.

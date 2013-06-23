@@ -4,7 +4,7 @@ import xml.dom.minidom
 sqlite_file_name = 'restaurants_license.sqlite'
 
 english_url = { 'locale' : 'en',
- 				'url' : "http://www.fehd.gov.hk/english/licensing/license/text/LP_Restaurants_EN.XML" }
+ 				'url' : "http://data.one.gov.hk/dataset/22/en" }
 
 chinese_url = { 'locale' : 'ch', 
 				'url' : "http://data.one.gov.hk/dataset/22/tc" }
