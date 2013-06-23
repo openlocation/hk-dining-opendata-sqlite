@@ -6,7 +6,7 @@ This is simple python script that generates an SQLite database containing all th
 
 So if you are looking to build yet another local dining social app startup, here's your chance.
 
-It basically fetches the English and Traditional Chinese XML feeds, and converts to a nice little SQLite file in a few minutes.
+It basically fetches the English and Traditional Chinese XML feeds from <http://www.gov.hk/en/theme/psi/datasets/restaurantlicences.htm>, then converts XML mumbo jumbo to a nice little SQLite file in a few minutes.
 
 The only python dependency is the amazing Python Requests module <http://docs.python-requests.org/en/latest/>.
 
