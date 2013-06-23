@@ -1,0 +1,15 @@
+hk-dining-opendata-sqlite
+==============
+June 23, 2013
+
+This is simple python script that generates a SQLite database containing all the licensed restaurants in Hong Kong Special Administrative Region.
+
+So if you are looking to build yet another local dining social app startup, here's your chance.
+
+It basically fetches the English and Traditional Chinese XML feeds, and converts to a nice little SQLite file in a few minutes.
+
+The only python dependency is the amazing Python Requests module <http://docs.python-requests.org/en/latest/>.
+
+[![](https://github.com/kenguish/hk-dining-opendata-sqlite/raw/master/Screenshot.png)](https://github.com/kenguish/hk-dining-opendata-sqlite/raw/master/Screenshot.png)
+
+Licensed under WTFPL <http://sam.zoy.org/wtfpl/COPYING>.
