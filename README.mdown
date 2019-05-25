@@ -1,5 +1,11 @@
 hk-dining-opendata-sqlite
 ==============
+May 25, 2019
+
+Goals:
+- Adding geocoding for all address using Gov address lookup API
+- Spatial analysis of HK restaurants open data (e.g. walkability analysis, site selection analysis)
+
 June 23, 2013
 
 This is simple python script that generates an SQLite database containing all the licensed restaurants in Hong Kong Special Administrative Region.
